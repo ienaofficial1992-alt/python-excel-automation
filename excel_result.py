@@ -174,7 +174,7 @@ for row in range(8, 12):
         fgColor=color
     )
 
-    summe   ry[f"A{row}"].font = Font(
+    summery[f"A{row}"].font = Font(
         bold=True,
         color="FFFFFF"
     )
