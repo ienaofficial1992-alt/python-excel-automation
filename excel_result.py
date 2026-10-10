@@ -159,7 +159,7 @@ from openpyxl.styles import PatternFill, Font
 
 # Grade অনুযায়ী রং
 grade_colors = {
-    "A": "008000",
+    "A": "0000FF",
     "B": "0000FF",
     "C": "FFA500",
     "F": "FF0000"
